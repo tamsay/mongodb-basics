@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-basics",
+  "version": "1.0.0",
+  "description": "NodeJs Task 2 - mongodb",
+  "main": "tlonge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamsay/mongodb-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamsay/mongodb-basics/issues"
+  },
+  "homepage": "https://github.com/tamsay/mongodb-basics#readme",
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  }
+}
